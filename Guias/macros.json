@@ -1,0 +1,15 @@
+{
+    "\\entonces": "\\Rightarrow",
+    "\\si": "\\Rightarrow",
+    "\\sii": "\\Leftrightarrow",
+    "\\contenido": "\\subseteq",
+    "\\contiene": "\\subseteq",
+    "\\implica": "\\rightarrow",
+    "\\a": "\\alpha",
+    "\\b": "\\beta",
+    "\\union": "\\cup",
+    "\\interseccion": "\\cap",
+    "\\y": "\\wedge",
+    "\\o": "\\vee",
+    "\\llaves": "\\{#1\\}"
+}
