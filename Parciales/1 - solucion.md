@@ -6,6 +6,8 @@ geometry: margin=2.5cm
 output: pdf_document
 ---
 
+Solución hecha por un alumno. 
+
 # Ejercicio 1
 
 Definamos $f(x)$ como la función:

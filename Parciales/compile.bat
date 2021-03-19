@@ -1,0 +1,1 @@
+pandoc Schiavinato-Mauro-299_19-1.md --from markdown+latex_macros -o Schiavinato-Mauro-299_19-1.pdf & pandoc Schiavinato-Mauro-299_19-2.md --from markdown+latex_macros -o Schiavinato-Mauro-299_19-2.pdf & pandoc Schiavinato-Mauro-299_19-3.md --from markdown+latex_macros-implicit_figures -o Schiavinato-Mauro-299_19-3.pdf
