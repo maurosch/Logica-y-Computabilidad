@@ -1,16 +1,17 @@
-### Agregar soluciones
-Si tenés alguna solución faltante me la podes enviar por foto a maurolschiavinato@gmail.com y yo la transcribo a latex. Aunque si sabes latex me harías un gran favor pasandola vos y luego haciendo un pull request para agregarla.
+## Lógica y Computabilidad - Cursada Verano 2021 
 
-### Errores
-No soy ningún profesor ni nada cerca de la materia. Si encuentran errores haganmelo saber y lo arreglo.
+### Contribuir
+Los fuentes de los pdf están hechos en markdown con agregados de latex matemático.  
+Para compilar los markdown a pdf uso pandoc. Si están en linux/mac pueden correr el ejecutable **compile.sh** para compilar los fuentes.
+Referir a pandoc para entender la sintaxis más a fondo.
 
-### Compilación
-Utilizo pandoc para compilar los markdown. Si están en linux pueden correr el ejecutable **compile.sh** para compilar los fuentes.
+### Notación
+La notación de el conjunto de naturales incluye el 0.
 
-### Consideraciones
-En nuestra notación incluimos el 0 en el conjunto de naturales.
+### Desarrollo
+Usé **vscode** con la extensión **Markdown+Math**, la cual escribís mediante markdown y podés meter latex matemático (igual que pandoc) y te muestra una vista en tiempo real. La desventaja de usar Markdown+Math es que no soporta librerías de latex.
 
-### Qué use para hacer los ejercicios en latex
-**Overleaf** mucho no me gusta para trabajar solo en latex por el tiempo de compilación y porque no se puede trabajar offline. Al principio use **notion** que soporta latex y compila en tiempo real con javascript (osea no hay espera para ver el resultado :D). Pero la principal desventaja es que no se puede usar offline y que no podemos usar macros que se compartan entre celdas. Finalmente utilicé **vscode** con la extensión **Markdown+Math** la cual escribimos mediante markdown y podemos agregar latex matemático con el signo pesos en tiempo real y nos deja usar macros. Luego para obtener el pdf simplemente se puede compilar con pandoc. La desventaja de usar esta extensión es que no podemos incluir librerías, algo que no creo que sea posible de hacer sin compilar.
+### Disclaimer
+No están completas las guías. Si tenés alguna solución podés hacer un pull request y lo reviso sin problemas :). Sinó podés armar un issue con la foto de la solución y yo lo paso a latex.
 
-Una opción a probar que no use es **Jupyter**.
+Soy un simple alumno que cursó la materia en pandemia el verano de 2021, si tienen duda de la correctitud de una solución no duden en consultar con su profesor. Si encuentran errores pueden hacer un pull request para corregirlos.
